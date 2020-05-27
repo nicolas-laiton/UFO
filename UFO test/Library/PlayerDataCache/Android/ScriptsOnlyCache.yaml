@@ -530,4 +530,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: C:/Users/nicol/Desktop/UFO/UFO/UFO test/Builds/AndroidBuild/UFOTest.apk
+  playerPath: C:/Users/nicol/Desktop/UFO/UFO/Android
